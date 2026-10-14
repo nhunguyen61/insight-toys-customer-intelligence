@@ -83,18 +83,21 @@ Each recommendation is framed as a **controlled test**, because the underlying r
 
 ## Dashboard (SAS Visual Analytics)
 
+
+## Dashboard (SAS Visual Analytics)
+
 ### Executive Summary
-![Executive Summary](dashboard/01_executive_summary.png)
+![Executive Summary](01_executive_summary.png)
 
 ### Sales & Profitability
-![Sales and Profitability](dashboard/02_sales_profitability.png)
+![Sales and Profitability](02_sales_profitability.png)
 
 ### Customer Segmentation
-![Customer Segmentation](dashboard/03_customer_segmentation.png)
+![Customer Segmentation](03_customer_segmentation.png)
 
 ### Service Quality
-![Service Quality](dashboard/04_service_quality.png)
-
+![Service Quality](04_service_quality.png)
+  
 ---
 
 ## Methodology
