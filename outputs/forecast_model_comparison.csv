@@ -1,0 +1,8 @@
+model,MAD,MAPE_pct,bias
+Moving Average (3-month),67353,14.57,-58957
+Moving Average (6-month),91901,20.72,-81605
+Exponential Smoothing (alpha=0.1),57534,12.43,-29294
+Exponential Smoothing (alpha=0.3),68718,15.53,-66512
+Exponential Smoothing (alpha=0.5),62941,13.67,-54672
+Regression (trend + month dummies),27424,6.02,-5166
+Seasonal ARIMA,138574,30.71,-138574

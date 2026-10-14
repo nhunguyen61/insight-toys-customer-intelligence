@@ -1,0 +1,4 @@
+scenario,customer_satisfaction_input,forecast_aug_2006,change_vs_baseline_pct
+Pessimistic,42.7% (North America 2004),448082,-8.3
+Baseline,48% (current company level),488834,0.0
+Optimistic,51% (company-wide 1999),509230,4.2
